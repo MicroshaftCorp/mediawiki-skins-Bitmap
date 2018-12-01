@@ -1,20 +1,20 @@
 {
-	"name": "MonoBook",
+	"name": "Bitmap",
 	"author": [
 		"Gabriel Wicke",
 		"Isarra Yos",
-		"..."
+		"MicroshaftCorp"
 	],
-	"url": "https://www.mediawiki.org/wiki/Skin:MonoBook",
-	"descriptionmsg": "monobook-desc",
-	"namemsg": "skinname-monobook",
+	"url": "https://www.mediawiki.org/wiki/Skin:Bitmap",
+	"descriptionmsg": "bitmap-desc",
+	"namemsg": "skinname-bitmap",
 	"license-name": "GPL-2.0-or-later",
 	"type": "skin",
 	"requires": {
 		"MediaWiki": ">= 1.29.0"
 	},
 	"ValidSkinNames": {
-		"monobook": "MonoBook"
+		"bitmap": "Bitmap"
 	},
 	"SkinOOUIThemes": {
 		"monobook": "Apex"
@@ -43,7 +43,7 @@
 			}
 		},
 		"skins.monobook.responsive": {
-			"targets": [ "desktop", "mobile" ],
+			"targets": [ "desktop" ],
 			"styles": {
 				"resources/screen-common.less": {
 					"media": "screen"
@@ -57,7 +57,7 @@
 			}
 		},
 		"skins.monobook.mobile": {
-			"targets": [ "desktop", "mobile" ],
+			"targets": [ "desktop" ],
 			"scripts": [
 				"resources/mobile.js"
 			],
