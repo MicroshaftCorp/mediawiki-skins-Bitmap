@@ -324,33 +324,7 @@
        r="0.62838542"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.42105275,-0.42105253,0.70710658,0.70710696,15.535912,1.888981)" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17473"
-       id="radialGradient17475"
-       cx="1.7330208"
-       cy="1.8520832"
-       fx="1.7330208"
-       fy="1.8520832"
-       r="0.72760415"
-       gradientTransform="matrix(6.8437496e-8,-1.8181819,2.5454544,9.5812501e-8,2.1647733,15.850947)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17473"
-       id="radialGradient17483"
-       cx="6.8791666"
-       cy="6.8130207"
-       fx="6.8791666"
-       fy="6.8130207"
-       r="1.4552083"
-       gradientTransform="matrix(1,-1.8022191e-7,1.3107049e-7,0.72727279,5.2916665,7.4804934)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient17473"
-       id="radialGradient17475-3"
-       cx="1.8785415"
+   
        cy="1.8520832"
        fx="1.8785415"
        fy="1.8520832"
